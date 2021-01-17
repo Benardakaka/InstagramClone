@@ -1,4 +1,4 @@
-# Instagram-Clone
+# Instagram-Clone.
 
 #### Author: [BENARD AKAKA](https://github.com/Benardakaka)
 
@@ -37,7 +37,7 @@ This is Website Application that allows users to sign up, upload pictures,view o
 
 #### Clone the Repo and rename it to suit your needs.
 ```bash
-git clone https://github.com/Benardakaka/Instagram-Clone.git
+git clone https://github.com/Benardakaka/InstagramClone
 ```
 #### Initialize git and add the remote repository
 ```bash
@@ -98,7 +98,7 @@ Open [localhost:8000](http://127.0.0.1:8000/)
 * [Python3.6](https://docs.python.org/3/)
 * Django 2.2.8
 * Postgresql 
-* Boostrap
+* Bootstrap
 * HTML
 * CSS
 
@@ -107,6 +107,6 @@ Open [localhost:8000](http://127.0.0.1:8000/)
  Incase you come across errors, have questions, ideas ,concerns, or want to contribute to the application, feel free to reach me at :deesawe16@gmail.com
 
 ### License
-[MIT](https://github.com/Benardakaka/insta-try/blob/master/LICENSE)
+[MIT](https://github.com/Benardakaka/InstagramClone/blob/master/LICENSE)
 
-Copyright (c) 2020 **Benard Akaka**
+Copyright (c) 2020-2021 **Benard Akaka**
