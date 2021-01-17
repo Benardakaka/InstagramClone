@@ -31,9 +31,9 @@ This is Website Application that allows users to sign up, upload pictures,view o
 ## Getting started
 
 ### Prerequisites
-* [python3.6]
-* [virtual]
-* [pip]
+* python3.6
+* virtual
+* pip
 
 #### Clone the Repo and rename it to suit your needs.
 ```bash
@@ -95,12 +95,12 @@ Open [localhost:8000](http://127.0.0.1:8000/)
         
 ## Built With
 
-* [Python3.6](https://docs.python.org/3/)
-* [Django3.1.5]
-* [Postgresql] 
-* [Bootstrap4]
-* [HTML]
-* [CSS]
+* Python3.6](https://docs.python.org/3/)
+* Django3.1.5
+* Postgresql 
+* Bootstrap4
+* HTML
+* CSS
 
 
 ## Support and contact details
