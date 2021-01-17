@@ -26,6 +26,8 @@
     <header class="site-header">
         <nav class="navbar navbar-expand-md navbar-dark bg-dark">
           <div class="container">
+
+            <img src="/static/images/logo.jpeg" height="2px" width="3px" alt="">
             <a class="navbar-brand mr-4" href="{% url 'gram-landing' %}">Instagram</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle" aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -35,10 +37,7 @@
                 <a class="navbar-brand mr-4" href="{% url 'gram-landing' %}">Home</a>
               </div>
               <!-- Navbar Right Side -->
-              <div class="navbar-nav">
-                <div class="logo">
-                  <img src="" alt="">
-                </div>
+              <div class="navbar-nav">   
                 {% if user.is_authenticated %}
                 
                 <a class="navbar-brand mr-4" href="{% url 'user-posts' %}">Follow</a>
