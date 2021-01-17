@@ -31,9 +31,9 @@ This is Website Application that allows users to sign up, upload pictures,view o
 ## Getting started
 
 ### Prerequisites
-* python3.6
-* virtual environment
-* pip
+* [python3.6]
+* [virtual]
+* [pip]
 
 #### Clone the Repo and rename it to suit your needs.
 ```bash
