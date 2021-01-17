@@ -12,7 +12,6 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 import os
 from pathlib import Path
-import django_heroku
 import dj_database_url
 import cloudinary
 from decouple import config,Csv
@@ -158,6 +157,3 @@ RISPY_TEMPLATE_PACK='bootstrap4'
 
 LOGIN_REDIRECT_URL='gram-landing'
 LOGIN_URL='login'
-
-# Configure Django App for Heroku.
-django_heroku.settings(locals())
