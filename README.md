@@ -96,11 +96,11 @@ Open [localhost:8000](http://127.0.0.1:8000/)
 ## Built With
 
 * [Python3.6](https://docs.python.org/3/)
-* [Django3.]
-* Postgresql 
-* Bootstrap
-* HTML
-* CSS
+* [Django3.1.5]
+* [Postgresql] 
+* [Bootstrap4]
+* [HTML]
+* [CSS]
 
 
 ## Support and contact details
