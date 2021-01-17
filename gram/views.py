@@ -83,9 +83,7 @@ class UserListView(ListView):
 
     def get_queryset(self):
         return Profile.objects.all().exclude(user=self.request.user)
-        # user = get_object_or_404(User, username=self.kwargs.get('username'))
-        # return Image.objects.filter(author=user.profile).order_by('-date_posted')
-
+       
 class ProfileDetailView(DeleteView):
     model=Profile
     template_name='main/profile.html'
