@@ -45,6 +45,7 @@
                 <a class="navbar-brand mr-4" href="{% url 'profile' %}">Profile</a>
                 <a class="navbar-brand mr-4" href="{% url 'logout' %}">Logout</a>
                 {% else %}
+                
                 <a class="navbar-brand mr-4" href="{% url 'login' %}">Login</a>
                 <a class="navbar-brand mr-4" href="{% url 'registration' %}">Register</a>
                 {% endif %}
